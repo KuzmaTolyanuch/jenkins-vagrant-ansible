@@ -14,11 +14,6 @@
       with_items:
         - sudo
         - git
-        - mercurial
-        - subversion
-        - build-essential
-        - tmux
-        - vim-nox
         - python3
         - python-pip
         - python3-pip
