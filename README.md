@@ -19,7 +19,7 @@ Usage
 -----
 
 ```bash
-$ git clone https://github.com/davb5/jenkins-vagrant-ansible
+$ git clone https://github.com/KuzmaTolyanuch/jenkins-vagrant-ansible
 $ cd jenkins-vagrant-ansible
 $ vagrant up
 ```
